@@ -1,2 +1,3 @@
-# ViolinPitchCorrectionTuner
-Corrects the pitch of any note that a violin produces through a Teensy microprocessor, various PCB hardware synthesizer components, and Arduino software
+# Violin-Pitch-Corrector
+takes the frequency of a violin note and tells you the closest note you hit to it, utilizes teensy
+microcontroller and uses a transducer microphone attached to the violin as an input.
